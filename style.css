@@ -48,3 +48,4 @@ a:hover { text-decoration: underline; }
 ul { padding-left: 22px; }
 footer { margin-top: 56px; padding-top: 20px; border-top: 1px solid var(--line); font-size: 14px; color: var(--muted); }
 footer a { margin-right: 16px; }
+.card > h2:first-child { margin-top: 16px; }
